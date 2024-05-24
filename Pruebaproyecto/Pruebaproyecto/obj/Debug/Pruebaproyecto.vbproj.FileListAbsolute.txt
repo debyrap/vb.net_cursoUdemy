@@ -1,0 +1,11 @@
+C:\Users\Deby Raposo\AppData\Local\Temporary Projects\Pruebaproyecto\bin\Debug\Pruebaproyecto.exe.config
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\bin\Debug\Pruebaproyecto.exe.config
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\bin\Debug\Pruebaproyecto.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\bin\Debug\Pruebaproyecto.pdb
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\bin\Debug\Pruebaproyecto.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.Form1.resources
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.Resources.resources
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.vbproj.GenerateResource.Cache
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.pdb
