@@ -9,3 +9,7 @@ C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROG
 C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.exe
 C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.xml
 C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.pdb
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Pruebaproyecto\Pruebaproyecto\bin\Debug\Pruebaproyecto.exe.config
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Pruebaproyecto\Pruebaproyecto\obj\Debug\Pruebaproyecto.pdb
