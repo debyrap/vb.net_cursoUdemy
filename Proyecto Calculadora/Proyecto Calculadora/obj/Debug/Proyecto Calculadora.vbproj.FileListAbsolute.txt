@@ -1,0 +1,15 @@
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.vbprojResolveAssemblyReference.cache
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.vbproj.GenerateResource.Cache
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.pdb
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\CURSO PARALELO\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Proyecto Calculadora\Proyecto Calculadora\bin\Debug\Proyecto Calculadora.exe.config
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.exe
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.xml
+C:\Users\Deby Raposo\Documents\DEBY SIST\IRSO\SEGUNDO AÑO\1ER CUATRIMESTRE\PROGRAMACIÓN II\vb.net_cursoUdemy\Proyecto Calculadora\Proyecto Calculadora\obj\Debug\Proyecto Calculadora.pdb
